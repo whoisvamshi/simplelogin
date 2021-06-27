@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Employee successfully Registered ..)</h1>
+It is my first website,which created recently
+
+<a   href="supportus.jsp">
+support us.
+</a>
 </body>
 </html>
